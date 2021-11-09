@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "firstname": "user1",
+      "lastname": "user 1 last",
+      "email": "user1@dasd.cas",
+      "password": "123",
+      "confirm": "123",
+      "username": "user1",
+      "role": "user",
+      "status": "leave",
+      "phone": "123456789",
+      "gender": "male",
+      "prefColor": "f3f3f3",
+      "birthday": "1992-13-03T15:01:53.023Z",
+      "taskId": [],
+      "reminderId": [],
+      "notes": []
+    },
+    {
+      "id": "jf7avsP",
+      "firstname": "Sokol ",
+      "lastname": "Paja",
+      "email": "s.paja@codevider.com",
+      "password": "password",
+      "confirm": "password",
+      "username": "kolpaja",
+      "role": "admin",
+      "status": "active",
+      "phone": "676792890",
+      "gender": "male",
+      "joined": "2021-08-02T14:01:48.149Z",
+      "prefColor": "f34",
+      "birthday": "1992-13-03T15:01:53.023Z",
+      "taskId": [],
+      "reminderId": [],
+      "notes": []
+    }
+  ],
+  "birthdays": [
+    {
+      "id": "user1bd",
+      "userBD": "2021-09-27T10:13:24.534Z",
+      "status": "active",
+      "userId": ["kolpaja"]
+    }
+  ]
+}
